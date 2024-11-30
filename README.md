@@ -1,4 +1,5 @@
 Getting Started
+
 **1. Run the Backend**
 Navigate to the /backend folder and start the server:
 
